@@ -1,0 +1,4 @@
+dump.rdb
+.venv/
+*.venv
+db.sqlite3
